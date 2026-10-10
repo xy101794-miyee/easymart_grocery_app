@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Easymart logo">
+  <rect width="1200" height="900" fill="#f5f2f0"/>
+  <g transform="translate(110,170)">
+    <path d="M210 60 L210 420 Q210 500 150 500 L70 500 Q10 500 10 420 L10 260 Q10 200 70 200 L130 200 Q190 200 190 140 L190 60 Q190 10 240 10 L310 10 Q350 10 370 40 C390 70 390 105 370 135 L330 185 Q310 210 280 210 L220 210" fill="#1c2f45"/>
+    <path d="M160 55 L160 470 Q160 515 115 515 L80 515 Q35 515 35 470 L35 355 H95 Q150 355 160 305 L180 170 Q188 118 160 55 Z" fill="#f28a1d"/>
+    <g stroke="#1c2f45" stroke-linecap="round" stroke-width="26" fill="none">
+      <path d="M210 85 L420 85"/>
+      <path d="M210 260 L470 260"/>
+      <path d="M210 435 L430 435"/>
+    </g>
+    <g fill="#1c2f45" stroke="#1c2f45" stroke-width="12">
+      <circle cx="70" cy="470" r="34"/>
+      <circle cx="435" cy="470" r="34"/>
+    </g>
+    <g fill="#f28a1d">
+      <circle cx="70" cy="470" r="15"/>
+      <circle cx="435" cy="470" r="15"/>
+    </g>
+  </g>
+  <g transform="translate(0,0)">
+    <text x="600" y="650" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="188" font-weight="700" fill="#1c2f45" letter-spacing="-8">Easymart</text>
+    <line x1="320" y1="705" x2="560" y2="705" stroke="#f28a1d" stroke-width="6"/>
+    <line x1="640" y1="705" x2="880" y2="705" stroke="#f28a1d" stroke-width="6"/>
+  </g>
+  <g transform="translate(500,760)">
+    <text x="0" y="0" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="600" fill="#1c2f45" letter-spacing="4">EASY SHOP, SMART CHOICE</text>
+  </g>
+</svg>
